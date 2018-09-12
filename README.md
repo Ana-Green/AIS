@@ -5,4 +5,4 @@ See [AIS v3 Interface Spec](http://wiki.secondlife.com/wiki/Linden_Lab_Official:
 
 Currently this targets a .NET 4.6.1 runtime environment, due to dependencies on older and third-party assemblies.
 
-WORK IN PROGRESS: Just a .NET REST API wrapper so far. Hooking up the InWorldz Cassandra support and filling in functionality.
+Still WORK IN PROGRESS: Just a .NET REST API wrapper so far. Hooking up the InWorldz Cassandra support and filling in functionality.
